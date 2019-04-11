@@ -4,145 +4,204 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "F25DD83F-C011-4E86-82CE-8B6A23969D71"
+		"uuidString": "73E63306-3102-48CE-B67F-7921961AC5E1"
 		}
 	],
 "creatorBuild": "29156",
 "files": {
-	"/assets/jpgs/Desktop.jpg": {
+	"/2. Design/Desktop.jpg": {
 		"ft": 16384,
-		"iS": 735075,
+		"iS": 676112,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/jpgs/Desktop.jpg",
+		"oAP": "/2. Design/Desktop.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/assets/jpgs/Mobile.jpg": {
+	"/2. Design/Mobile .jpg": {
 		"ft": 16384,
-		"iS": 300692,
+		"iS": 361020,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/jpgs/Mobile.jpg",
+		"oAP": "/2. Design/Mobile .jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/assets/jpgs/Tablet.jpg": {
+	"/2. Design/Tablet.jpg": {
 		"ft": 16384,
-		"iS": 470252,
+		"iS": 493070,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/jpgs/Tablet.jpg",
+		"oAP": "/2. Design/Tablet.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/assets/shutterstock_139773448.jpg": {
+	"/3. Assets/header/headerbg.jpg": {
 		"ft": 16384,
-		"iS": 529598,
+		"iS": 348620,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/shutterstock_139773448.jpg",
+		"oAP": "/3. Assets/header/headerbg.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/assets/shutterstock_143560873.eps": {
+	"/3. Assets/header/logo-wit.png": {
+		"ft": 32768,
+		"iS": 3764,
+		"oA": 0,
+		"oAP": "/3. Assets/header/logo-wit.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/3. Assets/ingredients/Ingredient-1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/3. Assets/ingredients/Ingredient-1.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/3. Assets/ingredients/Ingredient-2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/3. Assets/ingredients/Ingredient-2.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/3. Assets/ingredients/Ingredient-3.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/3. Assets/ingredients/Ingredient-3.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/3. Assets/ingredients/Ingredient-4.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/3. Assets/ingredients/Ingredient-4.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/3. Assets/ingredients/Ingredient-5.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/3. Assets/ingredients/Ingredient-5.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/3. Assets/ingredients/Ingredient-6.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/3. Assets/ingredients/Ingredient-6.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/3. Assets/mobile/mobile.png": {
+		"ft": 32768,
+		"iS": 247949,
+		"oA": 0,
+		"oAP": "/3. Assets/mobile/mobile.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/3. Assets/pricing/check.jpg": {
+		"ft": 16384,
+		"iS": 1362,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/3. Assets/pricing/check.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/3. Assets/Text/text.rtf": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/assets/shutterstock_143560873.eps",
+		"oAP": "/3. Assets/Text/text.rtf",
 		"oF": 0
 		},
-	"/assets/shutterstock_57067441.jpg": {
-		"ft": 16384,
-		"iS": 9844644,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/shutterstock_57067441.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/gallery/post-2.png": {
-		"ft": 32768,
-		"iS": 179485,
-		"oA": 0,
-		"oAP": "/gallery/post-2.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/gallery/post-3.png": {
-		"ft": 32768,
-		"iS": 68953,
-		"oA": 0,
-		"oAP": "/gallery/post-3.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/gallery/post-4.png": {
-		"ft": 32768,
-		"iS": 83985,
-		"oA": 0,
-		"oAP": "/gallery/post-4.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/header/hero-2.jpg": {
-		"ft": 16384,
-		"iS": 74995,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/header/hero-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/img/header/hero1.jpg": {
-		"ft": 16384,
-		"iS": 74995,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/header/hero1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/img/header/hero1.png": {
-		"ft": 32768,
-		"iS": 6676,
-		"oA": 0,
-		"oAP": "/img/header/hero1.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/header/instagram-logo.svg": {
+	"/img/header/bars-solid.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/img/header/instagram-logo.svg",
+		"oAP": "/img/header/bars-solid.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/img/header/logo.png": {
+		"ft": 32768,
+		"iS": 6038,
+		"oA": 0,
+		"oAP": "/img/header/logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/hero/hero1.jpg": {
+		"ft": 16384,
+		"iS": 167333,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/hero/hero1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/mobile/mobile.jpg": {
+		"ft": 16384,
+		"iS": 19229,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/mobile/mobile.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/pricing/check.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/pricing/check.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -162,10 +221,10 @@
 "manualImportLinks": {
 	},
 "projectAttributes": {
-	"creationDate": 576688409.15418196,
-	"displayValue": "Zeng_Web1 demo ",
-	"displayValueWasSetByUser": 1,
-	"iconImageName": "meme-obama",
+	"creationDate": 576712190.01421297,
+	"displayValue": "Zeng-Web1",
+	"displayValueWasSetByUser": 0,
+	"iconImageName": "brackets_orange",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
