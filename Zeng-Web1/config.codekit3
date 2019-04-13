@@ -61,66 +61,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/3. Assets/ingredients/Ingredient-1.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/3. Assets/ingredients/Ingredient-1.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"/3. Assets/ingredients/Ingredient-2.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/3. Assets/ingredients/Ingredient-2.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"/3. Assets/ingredients/Ingredient-3.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/3. Assets/ingredients/Ingredient-3.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"/3. Assets/ingredients/Ingredient-4.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/3. Assets/ingredients/Ingredient-4.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"/3. Assets/ingredients/Ingredient-5.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/3. Assets/ingredients/Ingredient-5.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"/3. Assets/ingredients/Ingredient-6.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/3. Assets/ingredients/Ingredient-6.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
 	"/3. Assets/mobile/mobile.png": {
 		"ft": 32768,
 		"iS": 247949,
@@ -205,6 +145,114 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"/img/ingredients/Ingredient-1-2.gif": {
+		"ft": 4194304,
+		"iS": 466,
+		"oA": 0,
+		"oAP": "/img/ingredients/Ingredient-1-2.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"/img/ingredients/Ingredient-1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/ingredients/Ingredient-1.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/img/ingredients/Ingredient-2-2.gif": {
+		"ft": 4194304,
+		"iS": 383,
+		"oA": 0,
+		"oAP": "/img/ingredients/Ingredient-2-2.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"/img/ingredients/Ingredient-2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/ingredients/Ingredient-2.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/img/ingredients/Ingredient-3-2.gif": {
+		"ft": 4194304,
+		"iS": 600,
+		"oA": 0,
+		"oAP": "/img/ingredients/Ingredient-3-2.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"/img/ingredients/Ingredient-3.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/ingredients/Ingredient-3.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/img/ingredients/Ingredient-4-2.gif": {
+		"ft": 4194304,
+		"iS": 333,
+		"oA": 0,
+		"oAP": "/img/ingredients/Ingredient-4-2.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"/img/ingredients/Ingredient-4.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/ingredients/Ingredient-4.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/img/ingredients/Ingredient-5-2.gif": {
+		"ft": 4194304,
+		"iS": 491,
+		"oA": 0,
+		"oAP": "/img/ingredients/Ingredient-5-2.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"/img/ingredients/Ingredient-5.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/ingredients/Ingredient-5.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/img/ingredients/Ingredient-6-2.gif": {
+		"ft": 4194304,
+		"iS": 370,
+		"oA": 0,
+		"oAP": "/img/ingredients/Ingredient-6-2.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"/img/ingredients/Ingredient-6.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/ingredients/Ingredient-6.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"/img/mobile/mobile.jpg": {
 		"ft": 16384,
