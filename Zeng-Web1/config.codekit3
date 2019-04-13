@@ -61,17 +61,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/3. Assets/header/logo-wit.png": {
-		"ft": 32768,
-		"iS": 3764,
-		"oA": 0,
-		"oAP": "/3. Assets/header/logo-wit.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/3. Assets/ingredients/Ingredient-1.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -168,9 +157,20 @@
 		"oA": 0,
 		"oAP": "/img/header/logo.png",
 		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/header/nav-bar.jpg": {
+		"ft": 16384,
+		"iS": 12955,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/header/nav-bar.jpg",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
 	"/img/hero/Hero1.jpg": {
