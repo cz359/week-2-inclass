@@ -42,6 +42,14 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/2. Design/Zeng-Week2-AtHome-AssignmentSketch.sketch": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2. Design/Zeng-Week2-AtHome-AssignmentSketch.sketch",
+		"oF": 0
+		},
 	"/3. Assets/header/headerbg.jpg": {
 		"ft": 16384,
 		"iS": 348620,
@@ -175,12 +183,23 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/img/hero/hero1.jpg": {
+	"/img/header/nav-bar.jpg": {
 		"ft": 16384,
-		"iS": 167333,
+		"iS": 620,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/img/hero/hero1.jpg",
+		"oAP": "/img/header/nav-bar.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/hero/Hero1.jpg": {
+		"ft": 16384,
+		"iS": 146683,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/hero/Hero1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
