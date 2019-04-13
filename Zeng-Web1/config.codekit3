@@ -162,16 +162,6 @@
 		"oAP": "/3. Assets/Text/text.rtf",
 		"oF": 0
 		},
-	"/img/header/bars-solid.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/img/header/bars-solid.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
 	"/img/header/logo.png": {
 		"ft": 32768,
 		"iS": 6038,
@@ -181,17 +171,6 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
-		"q": 100
-		},
-	"/img/header/nav-bar.jpg": {
-		"ft": 16384,
-		"iS": 620,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/header/nav-bar.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
 		"q": 100
 		},
 	"/img/hero/Hero1.jpg": {
