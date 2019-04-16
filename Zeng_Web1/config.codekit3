@@ -9,88 +9,6 @@
 	],
 "creatorBuild": "29156",
 "files": {
-	"/2. Design/Desktop.jpg": {
-		"ft": 16384,
-		"iS": 676112,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/2. Design/Desktop.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/2. Design/Mobile .jpg": {
-		"ft": 16384,
-		"iS": 361020,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/2. Design/Mobile .jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/2. Design/Tablet.jpg": {
-		"ft": 16384,
-		"iS": 493070,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/2. Design/Tablet.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/2. Design/Zeng-Week2-AtHome-AssignmentSketch.sketch": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/2. Design/Zeng-Week2-AtHome-AssignmentSketch.sketch",
-		"oF": 0
-		},
-	"/3. Assets/header/headerbg.jpg": {
-		"ft": 16384,
-		"iS": 348620,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/3. Assets/header/headerbg.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/3. Assets/mobile/mobile.png": {
-		"ft": 32768,
-		"iS": 247949,
-		"oA": 0,
-		"oAP": "/3. Assets/mobile/mobile.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/3. Assets/pricing/check.jpg": {
-		"ft": 16384,
-		"iS": 1362,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/3. Assets/pricing/check.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/3. Assets/Text/text.rtf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/3. Assets/Text/text.rtf",
-		"oF": 0
-		},
 	"/img/header/logo-wit.png": {
 		"ft": 32768,
 		"iS": 2703,
@@ -298,7 +216,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 576712190.01421297,
-	"displayValue": "Zeng-Web1",
+	"displayValue": "Zeng_Web1",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets_orange",
 	"iconImageWasSetByUser": 0
